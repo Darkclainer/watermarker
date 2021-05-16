@@ -38,7 +38,7 @@ optional arguments:
   --xmargin XMARGIN     horizontal margin (default: 0)
   --ymargin YMARGIN     vertical margin (default: 0)
   -p, --preview         preview image instead of saving it (default: False)
-```console
+```
 
 For example you have image:
 
